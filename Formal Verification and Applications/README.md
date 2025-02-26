@@ -91,3 +91,19 @@ $\uparrow\uparrow$ All of the previous go to $\downarrow\downarrow$
 1. Compile Assertions
 1. Setup Clock/Reset/Constant
 1. Setup Initial State
+
+
+- Solid Problem statement (input, output, what should be done)
+- Approval from the company
+- Overview for the project from its beginning to its end
+- Sample for the system (in/out)
+- Specifications
+- Only give the big picture, not the details
+- End-to-end solution with an example and its output
+- Write it down and present it
+- Beginning is the documentation (explainability)
+- Metrics of defining the progress
+- Live demo for components
+
+
+
